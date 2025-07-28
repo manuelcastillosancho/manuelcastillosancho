@@ -30,19 +30,19 @@ Email me at "manuel.castillo.sancho.01@gmail.com" or visit my [LinkedIn](https:/
 
 
 ### 🤖 Artificial Inteligence
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
-![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-%234B0082.svg?style=for-the-badge&logo=LangChain&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black)  
-![MLflow](https://img.shields.io/badge/MLflow-%230062B1.svg?style=for-the-badge&logo=mlflow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) 
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-%234B0082.svg?style=for-the-badge&logo=LangChain&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black) 
+![MLflow](https://img.shields.io/badge/MLflow-%230062B1.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 
 
-### 🛠️ Otros
+### 🛠️ Others
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-grey?style=for-the-badge)
 ![VMware](https://img.shields.io/badge/VMware-%23007CBA.svg?style=for-the-badge&logo=vmware&logoColor=white)
