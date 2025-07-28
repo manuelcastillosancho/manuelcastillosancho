@@ -10,10 +10,10 @@
 <div align="center">
   
 # 💫 About Me :
-💼 I am currently working as an AI Engineer at RAE (Real Academia Española), for LEIA proyect.
-🎓 I just graduated from the AI Master's Degree at the Universidad Politécnica de Madrid.
-🎓 I studied **Computer Science and Mathematics (2019–2024)** at the University of Málaga (UMA).
-👯 I'm looking to collaborate on projects related to AI.<br>
+💼 I am currently working as an AI Engineer at RAE (Real Academia Española), for LEIA proyect.<br>
+🎓 I just graduated from the AI Master's Degree at the Universidad Politécnica de Madrid.<br>
+🎓 I studied **Computer Science and Mathematics (2019–2024)** at the University of Málaga (UMA).<br>
+👯 I'm looking to collaborate on projects related to AI.<br
 💬 Ask me anything related to my work or studies!<br>
 📫 How to reach me:  
 Email me at "manuel.castillo.sancho.01@gmail.com" or visit my [LinkedIn](https://www.linkedin.com/in/manuelcastillosancho/)
@@ -29,7 +29,7 @@ Email me at "manuel.castillo.sancho.01@gmail.com" or visit my [LinkedIn](https:/
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 
-### 🤖 Inteligencia Artificial
+### 🤖 Artificial Inteligence
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
