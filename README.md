@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/arturoaguileraa"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Manuel+Castillo+Sancho;I+am+an+AI+Engineer+at+RAE;AI+enthusiast;Programming+Lover"></a>
+  <a href="https://github.com/manuelcastillosancho"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Manuel+Castillo+Sancho;I+am+an+AI+Engineer+at+RAE;AI+enthusiast;Programming+Lover"></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 💼 I am currently working as an AI Engineer at RAE (Real Academia Española), for LEIA proyect.<br>
 🎓 I just graduated from the AI Master's Degree at the Universidad Politécnica de Madrid.<br>
 🎓 I studied **Computer Science and Mathematics (2019–2024)** at the University of Málaga (UMA).<br>
-👯 I'm looking to collaborate on projects related to AI.<br
+👯 I'm looking to collaborate on projects related to AI.<br>
 💬 Ask me anything related to my work or studies!<br>
 📫 How to reach me:  
 Email me at "manuel.castillo.sancho.01@gmail.com" or visit my [LinkedIn](https://www.linkedin.com/in/manuelcastillosancho/)
